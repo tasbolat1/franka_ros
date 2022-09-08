@@ -1,3 +1,8 @@
+
+# NOTE!
+
+This is modified version of franka_ros to fit for GraspFlow project! It's originally forked from f7f00b6.
+
 # ROS integration for Franka Emika research robots
 
 [![Build Status][travis-status]][travis]
